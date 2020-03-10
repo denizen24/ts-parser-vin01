@@ -1,5 +1,5 @@
 {
-  "name": "ts-parser-vin01",
+  "name": "@denizen24/ts-parser-vin01",
   "version": "0.0.2",
   "description": "npm package avtoinfo",
   "main": "lib/index.js",
